@@ -1,0 +1,1 @@
+web: streamlit main.py --server.port $PORT --server.headless true
