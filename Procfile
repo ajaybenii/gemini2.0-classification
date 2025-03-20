@@ -1,1 +1,1 @@
-web: streamlit main.py --server.port $PORT --server.headless true
+web: uvicorn main:app --host 0.0.0.0 --port $PORT
