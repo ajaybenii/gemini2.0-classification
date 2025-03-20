@@ -4,3 +4,4 @@ streamlit
 requests
 google-genai
 aiofiles
+python-multipart
